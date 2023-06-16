@@ -10,3 +10,4 @@
 * git show <hash>
 * git remote add origin https://github.com/EddyPineda/BOOTCAMP-FRONTEND-G14.git
 * git branch -M main
+* git push -u origin main
